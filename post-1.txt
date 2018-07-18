@@ -4,5 +4,11 @@
 
 Bienvenue sur le topic dédié aux Administrateurs systèmes linux/unix & réseaux et plus largement aux métiers et activités gravitants autour de l'univers de l'ASR.
 
-Liste d'URL notables :
-*[url=https://github.com/kahun/awesome-sysadmin]A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.[/url]
+[fixed]Liste d'URL notables :[/fixed]
+[*][url=https://github.com/kahun/awesome-sysadmin]A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.[/url]
+
+[fixed]Mailinglists notables :[/fixed]
+[*]
+
+[fixed]IRC/Slack notables :[/fixed]
+[*]
