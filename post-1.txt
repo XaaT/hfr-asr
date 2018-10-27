@@ -4,11 +4,65 @@
 
 Bienvenue sur le topic dédié aux Administrateurs systèmes linux/unix & réseaux et plus largement aux métiers et activités gravitants autour de l'univers de l'ASR.
 
+[fixed]Liste des tags utilisés sur le topic :[/fixed]
+[*]Propalez !
+
 [fixed]Liste d'URL notables :[/fixed]
 [*][url=https://github.com/kahun/awesome-sysadmin]A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.[/url]
+[*][url=https://github.com/sindresorhus/awesome]Meta-awesome[/url] (grosse liste de repo "awesome" qui liste pas mal de choses]
+[*][url=https://www.wikiwand.com/fr/Administrateur_syst%C3%A8me]Wiki (FR) Sysadmin[/url]
+[*][url=https://www.reddit.com/r/Sysadmin_Fr/]Subreddit "Sysadmin_FR"[/url]
+[*][url=https://www.reddit.com/r/Sysadmin]Subreddit "Sysadmin"[/url]
+
+[fixed]Liste de Blogs notables :[/fixed]
 
 [fixed]Mailinglists notables :[/fixed]
-[*]
+[*][url=https://www.frsag.org/]FRsAG[/url] (FRench SysAdmins Group)
+[*][url=http://www.frnog.org/]FRnOG[/url] (FRench Network Operators Group)
 
 [fixed]IRC/Slack notables :[/fixed]
-[*]
+[*]Proposez !
+
+[fixed][/fixed]
+[b][u]Topics HFR[/u][/b]
+[fixed][/fixed]
+
+[fixed]Métier & Généraliste[/fixed][*][url=https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=21&subcat=494&post=19626&page=1&p=1&sondage=0&owntopic=1&trash=0&trash_post=0&print=0&numreponse=0&quote_only=0&new=0&nojs=0]Sysadmin (linux|unix) & netadmin[/url]
+[*][url=https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=13&post=64193&page=1&p=1&sondage=0&owntopic=1&trash=0&trash_post=0&print=0&numreponse=0&quote_only=0&new=0&nojs=0]Informaticiens aigris[/url]
+[fixed]Virtualisation[/fixed][*][url=https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=11&subcat=208&post=62334&page=1&p=1&sondage=0&owntopic=1&trash=0&trash_post=0&print=0&numreponse=0&quote_only=0&new=0&nojs=0]Virtualisation[/url]
+[*][url=https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=11&subcat=208&post=74419&page=1&p=1&sondage=0&owntopic=1&trash=0&trash_post=0&print=0&numreponse=0&quote_only=0&new=0&nojs=0]Proxmox[/url]
+[*][url=https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=11&subcat=208&post=74655&page=1&p=1&sondage=0&owntopic=1&trash=0&trash_post=0&print=0&numreponse=0&quote_only=0&new=0&nojs=0]XenServer/XCP-NG/XenOrchestra[/url]
+[*][url=https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=11&subcat=208&post=74606&page=1&p=1&sondage=0&owntopic=1&trash=0&trash_post=0&print=0&numreponse=0&quote_only=0&new=0&nojs=0]Docker[/url]
+[fixed]Systèmes de fichiers & co[/fixed][*][url=https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=11&subcat=208&post=74759&page=1&p=1&sondage=0&owntopic=1&trash=0&trash_post=0&print=0&numreponse=0&quote_only=0&new=0&nojs=0]ZFS/ZoL[/url]
+[*][url=https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=22&subcat=499&post=24988&page=1&p=1&sondage=0&owntopic=1&trash=0&trash_post=0&print=0&numreponse=0&quote_only=0&new=0&nojs=0]Stockage en ligne[/url]
+[fixed]Systèmes d'exploitation[/fixed][u]Kernel :[/u]
+[*][url=https://forum.hardware.fr/hfr/OSAlternatifs/Debats/linux-kernel-version-sujet_24424_1.htm]Kernel Linux[/url]
+[u]Distribution linux :[/u]
+[*][url=https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=11&subcat=204&post=12264&page=1&p=1&sondage=0&owntopic=1&trash=0&trash_post=0&print=0&numreponse=0&quote_only=0&new=0&nojs=0]Debian[/url]
+[*][url=https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=11&subcat=204&post=72660&page=1&p=1&sondage=0&owntopic=1&trash=0&trash_post=0&print=0&numreponse=0&quote_only=0&new=0&nojs=0]RHEL/Centos[/url]
+[*][url=https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=11&subcat=204&post=41826&page=1&p=1&sondage=0&owntopic=1&trash=0&trash_post=0&print=0&numreponse=0&quote_only=0&new=0&nojs=0]Ubuntu[/url]
+[*][url=https://forum.hardware.fr/hfr/OSAlternatifs/Installation/linux-dedie-version-sujet_67863_1.htm]Mint[/url]
+[*][url=https://forum.hardware.fr/hfr/OSAlternatifs/Installation/profils-livedvd-20160514-sujet_11861_1.htm]Gentoo[/url]
+[*][url=https://forum.hardware.fr/hfr/OSAlternatifs/Installation/unique-fedora-fedora-sujet_68696_1.htm]Fedora[/url]
+[*][url=https://forum.hardware.fr/hfr/OSAlternatifs/Installation/nouveaute-stabilite-simplicite-sujet_37691_1.htm]Arch[/url]
+[*][url=https://forum.hardware.fr/hfr/OSAlternatifs/Installation/slackware-archeologie-cycojesus-sujet_25831_1.htm]Slackware[/url]
+[*][url=https://forum.hardware.fr/hfr/OSAlternatifs/Installation/opensuse-leap-15-sujet_63256_1.htm]OpenSuse[/url]
+[u]Distribution Unix :[/u]
+[*][url=https://forum.hardware.fr/hfr/OSAlternatifs/Installation/freebsd-nouvelle-version-sujet_53327_1.htm]FreeBSD[/url]
+[*][url=https://forum.hardware.fr/hfr/OSAlternatifs/Logiciels-2/openbsd-poisson-pique-sujet_53304_1.htm]OpenBSD[/url]
+[u]Distribution NAS :[/u]
+[*][url=https://forum.hardware.fr/hfr/OSAlternatifs/Installation/liberez-questions-reponses-sujet_63902_1.htm]FreeNas[/url]
+[*][url=https://forum.hardware.fr/hfr/OSAlternatifs/Installation/unique-vault-utilisateurs-sujet_72970_1.htm]OpenMediaVault[/url]
+[fixed]Réseaux & Infra[/fixed][*][url=https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=22&subcat=503&post=28598&page=1&p=1&sondage=0&owntopic=1&trash=0&trash_post=0&print=0&numreponse=0&quote_only=0&new=0&nojs=0]Beyond the first mile - Le topic du réseau des réseaux[/url]
+[*][url=https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=22&subcat=503&post=28735&page=1&p=1&sondage=0&owntopic=1&trash=0&trash_post=0&print=0&numreponse=0&quote_only=0&new=0&nojs=0]Ubiquiti Networks (UBNT)[/url]
+[*][url=https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=22&subcat=503&post=11704&page=1&p=1&sondage=0&owntopic=1&trash=0&trash_post=0&print=0&numreponse=0&quote_only=0&new=0&nojs=0]RJ45@home[/url] (contient des informations & experts)
+[*][url=https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=22&subcat=496&post=32598&page=1&p=1&sondage=0&owntopic=1&trash=0&trash_post=0&print=0&numreponse=0&quote_only=0&new=0&nojs=0]FAI/ISP[/url]
+[*][url=https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=22&subcat=499&post=32547&page=1&p=1&sondage=0&owntopic=1&trash=0&trash_post=0&print=0&numreponse=0&quote_only=0&new=0&nojs=0]Homelab[/url]
+[*][url=https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=22&subcat=499&post=209&page=1&p=1&sondage=0&owntopic=1&trash=0&trash_post=0&print=0&numreponse=0&quote_only=0&new=0&nojs=0]Serveur dédié[/url]
+[*][url=https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=22&subcat=499&post=60&page=1&p=1&sondage=0&owntopic=1&trash=0&trash_post=0&print=0&numreponse=0&quote_only=0&new=0&nojs=0]Online.net & Scaleway[/url]
+[*][url=https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=22&subcat=499&post=30128&page=1&p=1&sondage=0&owntopic=1&trash=0&trash_post=0&print=0&numreponse=0&quote_only=0&new=0&nojs=0]Ovh[/url]
+[*][url=https://forum.hardware.fr/hfr/reseauxpersosoho/Hebergement/kimsufi-serveur-partir-sujet_1041_1.htm]Kimsufi[/url]
+[fixed]Matériel[/fixed][*][url=https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=1&subcat=533&post=962791&page=1&p=1&sondage=0&owntopic=1&trash=0&trash_post=0&print=0&numreponse=0&quote_only=0&new=0&nojs=0]CPU Intel Xeon[/url]
+[*][url=https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=16&subcat=530&post=33771&page=1&p=1&sondage=0&owntopic=1&trash=0&trash_post=0&print=0&numreponse=0&quote_only=0&new=0&nojs=0]Onduleurs[/url]
+[fixed]Formation[/fixed][*][url=https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=8&subcat=235&post=28281&page=1&p=1&sondage=0&owntopic=1&trash=0&trash_post=0&print=0&numreponse=0&quote_only=0&new=0&nojs=0]CNAM[/url]
+[*][url=https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=8&subcat=233&post=14708&page=1&p=1&sondage=0&owntopic=1&trash=0&trash_post=0&print=0&numreponse=0&quote_only=0&new=0&nojs=0]Certifications Cisco[/url]
