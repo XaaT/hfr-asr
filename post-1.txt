@@ -15,6 +15,7 @@ Bienvenue sur le topic dédié aux Administrateurs systèmes linux/unix & résea
 [*][url=https://www.reddit.com/r/Sysadmin]Subreddit "Sysadmin"[/url]
 
 [fixed]Liste de Blogs notables :[/fixed]
+[*]Propalez !
 
 [fixed]Mailinglists notables :[/fixed]
 [*][url=https://www.frsag.org/]FRsAG[/url] (FRench SysAdmins Group)
@@ -23,9 +24,8 @@ Bienvenue sur le topic dédié aux Administrateurs systèmes linux/unix & résea
 [fixed]IRC/Slack notables :[/fixed]
 [*]Proposez !
 
-[fixed][/fixed]
-[b][u]Topics HFR[/u][/b]
-[fixed][/fixed]
+[fixed] [/fixed][*][b][u]Topics HFR[/u][/b]
+[fixed] [/fixed]
 
 [fixed]Métier & Généraliste[/fixed][*][url=https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=21&subcat=494&post=19626&page=1&p=1&sondage=0&owntopic=1&trash=0&trash_post=0&print=0&numreponse=0&quote_only=0&new=0&nojs=0]Sysadmin (linux|unix) & netadmin[/url]
 [*][url=https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=13&post=64193&page=1&p=1&sondage=0&owntopic=1&trash=0&trash_post=0&print=0&numreponse=0&quote_only=0&new=0&nojs=0]Informaticiens aigris[/url]
