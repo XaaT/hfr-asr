@@ -7,6 +7,9 @@ Bienvenue sur le topic dédié aux Administrateurs systèmes linux/unix & résea
 [fixed]Liste des tags utilisés sur le topic :[/fixed]
 [*]Propalez !
 
+[fixed]Posts notables d'HFRiens[/fixed]
+[*][url=https://forum.hardware.fr/forum2.php?post=19626&cat=21&config=hfr.inc&cache=&page=1&sondage=0&owntopic=0&word=NETDATA&spseudo=plam&firstnum=157042&currentnum=0&filter=1]Petit retour pratique sur la solution de métriques live + métrologie + monitoring avec la stack Netdata/Prometheus/Grafana.[/url]
+
 [fixed]Liste d'URL notables :[/fixed]
 [*][url=https://github.com/kahun/awesome-sysadmin]A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.[/url]
 [*][url=https://github.com/sindresorhus/awesome]Meta-awesome[/url] (grosse liste de repo "awesome" qui liste pas mal de choses]
